@@ -1,0 +1,3285 @@
+[
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Abeno Street The Street of Magical Stores", 
+        "genres": [
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Fantasy"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Oyayubi Hime", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Accel World", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "School"
+            }, 
+            {
+                "name": "Game"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Accel World", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Last Exile", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Last Exile", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Legend Galactic Heroes", 
+        "genres": [
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Space"
+            }, 
+            {
+                "name": "Military"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Legend of the Galactic Heroes", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Liar Game", 
+        "genres": [
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Ecchi"
+            }, 
+            {
+                "name": "Game"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "No Game No Life", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Little Busters! Refrain", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "Slice of Life"
+            }, 
+            {
+                "name": "School"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Little Busters!: Refrain", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Log Horizon", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Magic"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Game"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Log Horizon", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Lovely Complex", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Romance"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Lovely\u00e2\u0098\u0085Complex", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Machine Doll wa Kizutsukanai", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "School"
+            }, 
+            {
+                "name": "Ecchi"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Kikou Shoujo wa Kizutsukanai", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Macross Frontier", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "Military"
+            }, 
+            {
+                "name": "Mecha"
+            }, 
+            {
+                "name": "Music"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Macross Frontier", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Magi", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Magic"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "Harem"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Magikano", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Mahou Shoujo Madoka Magica", 
+        "genres": [
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Magic"
+            }, 
+            {
+                "name": "Psychological"
+            }, 
+            {
+                "name": "Thriller"
+            }, 
+            {
+                "name": "Mahou Shoujo"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Mahou Shoujo Madoka\u2605Magica", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Mahouka Koukou no Rettousei", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Magic"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Mai Hime", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Magic"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "School"
+            }, 
+            {
+                "name": "Mecha"
+            }, 
+            {
+                "name": "Shoujo Ai"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Mai-HiME", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Mawaru Penguindrum", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Psychological"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Mawaru Penguindrum", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Memories", 
+        "genres": [
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Romance"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Memories Off", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Mirai Nikki", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Psychological"
+            }, 
+            {
+                "name": "Thriller"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Mirai Nikki: Ura Mirai Nikki", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Mnemosyne", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Horror"
+            }, 
+            {
+                "name": "Yuri"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Mnemosyne: Mnemosyne no Musume-tachi", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo", 
+        "genres": [
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Fantasy"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Problem Children Are Coming From Another World, Aren't They?", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Mouryou no Hako", 
+        "genres": [
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Thriller"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Mouryou no Hako", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Mujin Wakusei Survive", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Slice of Life"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Mujin Wakusei Survive", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Mushishi", 
+        "genres": [
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Fantasy"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Mushishi Zoku Shou", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Serial Experiments Lain", 
+        "genres": [
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Psychological"
+            }, 
+            {
+                "name": "Dementia"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Serial Experiments Lain", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Shakugan No Shana", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "Super Power"
+            }, 
+            {
+                "name": "School"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Shakugan no Shana", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Shigofumi", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Shigofumi Picture Drama", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Shingeki no Kyojin", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Super Power"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Attack on Titan", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Shinsekai Yori", 
+        "genres": [
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Horror"
+            }, 
+            {
+                "name": "Psychological"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Shinsekai yori", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Sora no Otoshimono", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "Ecchi"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Heaven's Lost Property", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Soukyuu no Fafner", 
+        "genres": [
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Mecha"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Soukyuu no Fafner: Dead Aggressor", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Soul Eater", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Fantasy"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Soul Eater", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Soul Eater Not!", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Ecchi"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Soul Eater Not!", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Space Dandy", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Space"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Space\u2606Dandy", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Speed Grapher", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Super Power"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Speed Grapher", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Spice and Wolf", 
+        "genres": [
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Romance"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Spice and Wolf", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Steins;Gate", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Thriller"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Steins;Gate", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Strike the Blood", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "School"
+            }, 
+            {
+                "name": "Ecchi"
+            }, 
+            {
+                "name": "Vampire"
+            }, 
+            {
+                "name": "Harem"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Strike the Blood", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Super Seisyun Brothers", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Slice of Life"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Super Seisyun Brothers", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Suzumiya Haruhi No Yuutsu", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Slice of Life"
+            }, 
+            {
+                "name": "School"
+            }, 
+            {
+                "name": "Parody"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "The Melancholy of Haruhi Suzumiya", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Sword Art Online", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "Game"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Sword Art Online", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Sword Art Online II", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "Game"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Sword Art Online II", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Tales of Symphonia", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Magic"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Martial Arts"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Tales of Symphonia The Animation: Sylvarant-hen", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Tamako Market", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Slice of Life"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Tamako Market", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Tasogare Otome x Amnesia", 
+        "genres": [
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "Horror"
+            }, 
+            {
+                "name": "School"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Tasogare Otome x Amnesia", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Tegami Bachi", 
+        "genres": [
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Fantasy"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Letter Bee", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Texhnolyze", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Psychological"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Texhnolyze", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "The Tatami Galaxy", 
+        "genres": [
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "Psychological"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "The Tatami Galaxy", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "The Vision of Escaflowne", 
+        "genres": [
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "Mecha"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Escaflowne", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "To Aru Kagaku no Railgun", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Super Power"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Toaru Kagaku no Railgun", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "To Aru Majutsu No Index", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Magic"
+            }, 
+            {
+                "name": "Super Power"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Toaru Majutsu no Index", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Tokyo Ghoul", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Horror"
+            }, 
+            {
+                "name": "Psychological"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Tokyo Ghoul", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Ef - A Tale of Melodies!", 
+        "genres": [
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Romance"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "ef - a tale of melodies.", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Ef - A Tale of Memories", 
+        "genres": [
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Romance"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "ef - a tale of memories.", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Eureka Seven AO", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Mecha"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Eureka Seven AO", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Eve no Jikan", 
+        "genres": [
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Slice of Life"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Eve no Jikan", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Exaella", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Cinderella Express", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Fairy Tail", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Magic"
+            }, 
+            {
+                "name": "Fantasy"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Fairy Tail", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Fate Stay Night", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Magic"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Romance"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Fate/stay night", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Fate Stay Night - Unlimited Blade Works", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Magic"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Fantasy"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Fate/stay night: Unlimited Blade Works", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "FLCL", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Dementia"
+            }, 
+            {
+                "name": "Mecha"
+            }, 
+            {
+                "name": "Parody"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "FLCL", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Freedom", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Freedom", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Full Metal Panic Fumoffu!", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "School"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Full Metal Panic? Fumoffu", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Fullmetal Alchemist Brotherhood", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Magic"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Military"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Fullmetal Alchemist: Brotherhood", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Ga-Rei Zero", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Thriller"
+            }, 
+            {
+                "name": "Super Power"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Ga-Rei: Zero", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Gankutsuou", 
+        "genres": [
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Thriller"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Gankutsuou", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Ghost In The Shell Stand Alone Complex", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Police"
+            }, 
+            {
+                "name": "Military"
+            }, 
+            {
+                "name": "Mecha"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Ghost in the Shell: Stand Alone Complex", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Gokukoku no Brynhildr", 
+        "genres": [
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Romance"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Gokukoku no Brynhildr", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Guin Saga", 
+        "genres": [
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Fantasy"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Guin Saga", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Gunbuster", 
+        "genres": [
+            {
+                "name": "Mecha"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Gunbuster Renewal EX", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Gundam 00", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Military"
+            }, 
+            {
+                "name": "Mecha"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Mobile Suit Gundam 00", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Gundam Build Fighters", 
+        "genres": [
+            {
+                "name": "Mecha"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Gundam Build Fighters", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Gundam Seed", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Military"
+            }, 
+            {
+                "name": "Mecha"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Mobile Suit Gundam Seed", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Gundam Seed Destiny", 
+        "genres": [
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Space"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "Military"
+            }, 
+            {
+                "name": "Mecha"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Mobile Suit Gundam Seed Destiny", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Gundam Unicorn", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Military"
+            }, 
+            {
+                "name": "Mecha"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Mobile Suit Gundam Unicorn", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "GunGrave", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Super Power"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Gungrave", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Gunslinger Girl", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Psychological"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Gunslinger Girl", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Hack Quantum", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Fantasy"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": ".hack//Quantum", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Hagure Yuusha no Estetika", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Super Power"
+            }, 
+            {
+                "name": "Ecchi"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Hagure Yuusha no Estetica", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Haibane Renmei", 
+        "genres": [
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Slice of Life"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Haibane Renmei", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Hajjime no Hippo", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sports"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Hajime no Ippo: Rising", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Hakkenden", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Martial Arts"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Shin Hakkenden", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Hana Saku Iroha", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Slice of Life"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Hanasaku Iroha: Home Sweet Home", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Hataraku Maou-sama!", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "Demons"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "The Devil is a Part-Timer!", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Hellsing Ultimate", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Horror"
+            }, 
+            {
+                "name": "Vampire"
+            }, 
+            {
+                "name": "Military"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Hellsing Ultimate", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Heroic Age", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Military"
+            }, 
+            {
+                "name": "Mecha"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Heroic Age", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Highschool of the Dead", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Horror"
+            }, 
+            {
+                "name": "Ecchi"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "High School of the Dead", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Higurashi no Naku Koro ni", 
+        "genres": [
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Horror"
+            }, 
+            {
+                "name": "Psychological"
+            }, 
+            {
+                "name": "Thriller"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Higurashi no Naku Koro ni", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Higurashi no Naku Koro ni Rei (OAV)", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Thriller"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Higurashi no Naku Koro ni Rei", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Hitsugi no Chaika", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Fantasy"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Hitsugi no Chaika OVA", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Honey & Clover", 
+        "genres": [
+            {
+                "name": "Sci-Fi"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Honey Tokyo", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "One Outs", 
+        "genres": [
+            {
+                "name": "Sports"
+            }, 
+            {
+                "name": "Psychological"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "One Outs", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "One Piece", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Super Power"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "One Piece", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Outbreak Company", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Parody"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Outbreak Company", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Outlaw Star Remastered", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Space"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Outlaw Star Pilot", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Ozma", 
+        "genres": [
+            {
+                "name": "Sci-Fi"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Ozma", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Pandora Hearts", 
+        "genres": [
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Fantasy"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Pandora Hearts", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Panty & Stocking with Garterbelt", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Ecchi"
+            }, 
+            {
+                "name": "Parody"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Panty & Stocking with Garterbelt", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Paranoia Agent", 
+        "genres": [
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Police"
+            }, 
+            {
+                "name": "Psychological"
+            }, 
+            {
+                "name": "Thriller"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Paranoia Agent", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Parasyte", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Horror"
+            }, 
+            {
+                "name": "Psychological"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Kiseijuu: Sei no Kakuritsu", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Persona 4 The Animation", 
+        "genres": [
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Super Power"
+            }, 
+            {
+                "name": "School"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Persona 4 The Animation", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Planetes", 
+        "genres": [
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Space"
+            }, 
+            {
+                "name": "Romance"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Planetes", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Pokemon", 
+        "genres": [
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Comedy"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Pokemon", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Psycho-Pass", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Police"
+            }, 
+            {
+                "name": "Thriller"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Psycho-Pass", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "RahXephon", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "Mecha"
+            }, 
+            {
+                "name": "Music"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "RahXephon", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Rail Wars!", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Ecchi"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Rail Wars!", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Rainbow", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Magic"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "School"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Gift: Eternal Rainbow", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Ace of Diamond", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Sports"
+            }, 
+            {
+                "name": "School"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Diamond no Ace", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Boku wa Tomodachi ga Suku nai", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "School"
+            }, 
+            {
+                "name": "Ecchi"
+            }, 
+            {
+                "name": "Harem"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Boku wa Tomodachi ga Sukunai", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Dogs", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Thriller"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Under the Dog", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Gintama", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Historical"
+            }, 
+            {
+                "name": "Samurai"
+            }, 
+            {
+                "name": "Parody"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Gintama", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Hunter X Hunter", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Psychological"
+            }, 
+            {
+                "name": "Super Power"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Hunter x Hunter", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Kyousogiga", 
+        "genres": [
+            {
+                "name": "Supernatural"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Kyousougiga", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Muv-Luv Alternative - Total Eclipse", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Military"
+            }, 
+            {
+                "name": "Mecha"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Muv-Luv Alternative: Total Eclipse", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Norageki!", 
+        "genres": [
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Mystery"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Norageki!", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Read or Dream the TV", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Super Power"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "R.O.D ", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Senyuu", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Fantasy"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Senyuu.", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Tokyo Ravens", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Super Power"
+            }, 
+            {
+                "name": "School"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Tokyo Ravens", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Toppen Gurren Lagann", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Mecha"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Tengen Toppa Gurren Lagann", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Toshokan Sensou", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "Military"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Toshokan Sensou", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Towa no Quon", 
+        "genres": [
+            {
+                "name": "Supernatural"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Towa no Quon 6: Towa no Quon", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Toward the Terra", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Terra e... (Movie)", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Trigun", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Trigun", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Tsubasa Chronicle", 
+        "genres": [
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Magic"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Romance"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Tsubasa Chronicle", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Tsuritama", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Slice of Life"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Tsuritama", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Uchouten Kazoku", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Slice of Life"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Uchouten Kazoku", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Uchuu Kyoudai", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Space"
+            }, 
+            {
+                "name": "Slice of Life"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Uchuu Kyoudai", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Uchuu Sekan Yamato 2199", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Space"
+            }, 
+            {
+                "name": "Military"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Uchuu Senkan Yamato 2199", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Umineko No Naku Koro Ni", 
+        "genres": [
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Horror"
+            }, 
+            {
+                "name": "Psychological"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Umineko no Naku Koro ni", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Usagi Drop", 
+        "genres": [
+            {
+                "name": "Slice of Life"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Bunny Drop", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Valkyria Chronicles", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "Military"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Senjou no Valkyria: Gallian Chronicles", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Valrave The Liberator", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "Mecha"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Kakumeiki Valvrave", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Vandread I & II", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Ecchi"
+            }, 
+            {
+                "name": "Mecha"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Vandread Gekitouhen", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Vision d'Escaflowne", 
+        "genres": [
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "Mecha"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Escaflowne", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "White Album 2", 
+        "genres": [
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Romance"
+            }, 
+            {
+                "name": "Slice of Life"
+            }, 
+            {
+                "name": "Music"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "White Album 2", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Witchblade", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Super Power"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Witchblade", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "X-Clamp", 
+        "genres": [
+            {
+                "name": "Music"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "CLAMP in Wonderland", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Xam'd Lost Memories", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Adventure"
+            }, 
+            {
+                "name": "Sci-Fi"
+            }, 
+            {
+                "name": "Military"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Bounen no Xamdou", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "xxxHOLiC", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Psychological"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "xxxHOLiC", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Yowamushi Pedal", 
+        "genres": [
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Sports"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Yowamushi Pedal", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Yozakura Quartet Hana no Uta", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Magic"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Super Power"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Yozakura Quartet: Hana no Uta", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Zetsuen no Tempest", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Mystery"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Psychological"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Zetsuen no Tempest", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Zettai Karen Children", 
+        "genres": [
+            {
+                "name": "Action"
+            }, 
+            {
+                "name": "Comedy"
+            }, 
+            {
+                "name": "Supernatural"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Zettai Karen Children", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Zoku Natsume Yuujinchou", 
+        "genres": [
+            {
+                "name": "Drama"
+            }, 
+            {
+                "name": "Supernatural"
+            }, 
+            {
+                "name": "Fantasy"
+            }, 
+            {
+                "name": "Slice of Life"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Zoku Natsume Yuujinchou", 
+        "type": "anime", 
+        "year": ""
+    }, 
+    {
+        "api_name": "hummingbirdv1", 
+        "dir": "Ikoku Meiro no Crois\u00e9e", 
+        "genres": [
+            {
+                "name": "Slice of Life"
+            }, 
+            {
+                "name": "Historical"
+            }
+        ], 
+        "plot": "", 
+        "rating": "", 
+        "title": "Ikoku Meiro no Crois\u00e9e", 
+        "type": "anime", 
+        "year": ""
+    }
+]

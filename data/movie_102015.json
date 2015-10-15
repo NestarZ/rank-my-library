@@ -1,0 +1,2092 @@
+[
+    {
+        "api_name": "netflix", 
+        "dir": "12 Angry Men (1957)", 
+        "genres": "Classic Movies", 
+        "plot": "Knowing full well that a guilty verdict means death, a jury of 12 men must decide the fate of an 18-year-old boy accused of killing his father.", 
+        "rating": "4.1", 
+        "title": "12 Angry Men", 
+        "type": "movie", 
+        "year": "1957"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "American Beauty (1999)", 
+        "genres": "Dramas", 
+        "plot": "While struggling to endure his tightly wound wife, an unfulfilling job and a surly teen, a man becomes obsessed with one of his daughter's friends.", 
+        "rating": "3.8", 
+        "title": "American Beauty", 
+        "type": "movie", 
+        "year": "1999"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "American Mary (2012)", 
+        "genres": "Horror Movies", 
+        "plot": "Medical student Mary Mason is becoming dissatisfied with her path in life, mostly because she's piling up massive debt. But when she's offered a lucrative opportunity to get involved in extreme body-modification surgeries, she jumps at the chance.", 
+        "rating": "3.6", 
+        "title": "American Mary", 
+        "type": "movie", 
+        "year": "2012"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Pulp Fiction (1994)", 
+        "genres": "Oscar-winning Movies", 
+        "plot": "Weaving together three stories featuring a burger-loving hit man, his philosophical partner and a washed-up boxer, Quentin Tarantino influenced a generation of filmmakers with this crime caper's stylized, over-the-top violence and dark comic spirit.", 
+        "rating": "4.1", 
+        "title": "Pulp Fiction", 
+        "type": "movie", 
+        "year": "1994"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Ravenous (1999)", 
+        "genres": "Cult Movies", 
+        "plot": "In 19th-century California, soldiers at an Army outpost treat an injured man who tells them horrific tales of resorting to cannibalism while stranded.", 
+        "rating": "3.4", 
+        "title": "Ravenous", 
+        "type": "movie", 
+        "year": "1999"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Reservoir Dogs (1992)", 
+        "genres": "Independent Movies", 
+        "plot": "Quentin Tarantino's directorial debut is raw, violent, often mimicked -- and unforgettable. A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors unravel.", 
+        "rating": "4.0", 
+        "title": "Reservoir Dogs", 
+        "type": "movie", 
+        "year": "1992"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Silenced (2011)", 
+        "genres": "Dramas", 
+        "plot": "Though it is hard to believe, this is the true account of what took place inside a school for the deaf. For about 5 years since 2000, the principal and some teachers committed inhumane sexual molestation and abuse against some deaf children. Though we do not want to accept it, it is true. It is time to face this horrible truth.", 
+        "rating": "4.0", 
+        "title": "Silenced", 
+        "type": "movie", 
+        "year": "2011"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Snatch (2000)", 
+        "genres": "Comedies", 
+        "plot": "A gangster transporting a stolen gem inadvertently triggers a slew of events that wends through the worlds of bookies, bare-knuckle boxing and swine.", 
+        "rating": "4.0", 
+        "title": "Snatch", 
+        "type": "movie", 
+        "year": "2000"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Snowpiercer (2013)", 
+        "genres": "Sci-Fi & Fantasy", 
+        "plot": "The Earth's remaining inhabitants are confined to a single train circling the globe as revolution brews among the class-divided cars.", 
+        "rating": "3.4", 
+        "title": "Snowpiercer", 
+        "type": "movie", 
+        "year": "2013"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Stalker (1979)", 
+        "genres": "Thrillers", 
+        "plot": "Following a stress-induced breakdown after penning a best-seller, Paula Martin retreats to her childhood holiday home to recover. But the old house is full of secrets and mysteries that distract and disturb the fragile writer.", 
+        "rating": "2.8", 
+        "title": "Stalker", 
+        "type": "movie", 
+        "year": "2010"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Django Unchained (2012)", 
+        "genres": "Dramas", 
+        "plot": "Accompanied by a German bounty hunter, a freed slave named Django travels across America to free his wife from a sadistic plantation owner.", 
+        "rating": "4.0", 
+        "title": "Django Unchained", 
+        "type": "movie", 
+        "year": "2012"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Dredd (2012)", 
+        "genres": "Action & Adventure", 
+        "plot": "In the future, catastrophic wars have transformed Earth into a barren wasteland with the remaining population crowded into megacities, where all-powerful cops -- including the ultraviolent Judge Dredd -- are on the hunt for drug-dealing terrorists.", 
+        "rating": "3.8", 
+        "title": "Dredd", 
+        "type": "movie", 
+        "year": "2012"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Eureka (2000)", 
+        "genres": "TV Shows", 
+        "plot": "When he takes the job of sheriff of the little town of Eureka, Ore., ex-U.S. marshal Jack Carter (Colin Ferguson) discovers that the community's quiet citizens are actually brilliant scientists working for a dangerous top-secret research facility. As he works to fix the damage caused by experimental technology gone disastrously awry, Carter keeps a watchful eye on his rebellious daughter. Jordan Hinson co-stars in this offbeat sci-fi series.", 
+        "rating": "4.2", 
+        "title": "Eureka", 
+        "type": "movie", 
+        "year": "2006"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Exit Through the Gift Shop (2010)", 
+        "genres": "Documentaries", 
+        "plot": "Filmmaker Thierry Guetta's project to chronicle the underground world of street art takes a fascinating twist when he meets stencil artist Banksy.", 
+        "rating": "3.9", 
+        "title": "Exit Through the Gift Shop", 
+        "type": "movie", 
+        "year": "2010"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Fish Tank (2009)", 
+        "genres": "Dramas", 
+        "plot": "The life of hot-tempered teen outcast Mia takes an unexpected turn when her mother, Joanne, brings home a handsome and mysterious boyfriend named Connor, who pledges to bring sweeping positive changes to the household.", 
+        "rating": "3.4", 
+        "title": "Fish Tank", 
+        "type": "movie", 
+        "year": "2009"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Forrest Gump (1994)", 
+        "genres": "Dramas", 
+        "plot": "Forrest Gump, a friendly, simpleminded man, finds himself in the middle of nearly every major event of the 1960s and '70s.", 
+        "rating": "4.3", 
+        "title": "Forrest Gump", 
+        "type": "movie", 
+        "year": "1994"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Killing Them Softly (2012)", 
+        "genres": "Thrillers", 
+        "plot": "When a couple low-level crooks rob a Mob-protected poker game, a slick enforcer is hired to track down the offenders and take care of business.", 
+        "rating": "2.6", 
+        "title": "Killing Them Softly", 
+        "type": "movie", 
+        "year": "2012"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Laurence Anyways (2012)", 
+        "genres": "Dramas", 
+        "plot": "When high school teacher Laurence decides to live as a woman, he must overcome the resistance of his devoted fianc\u00e9e and his bewildered family.", 
+        "rating": "2.9", 
+        "title": "Laurence Anyways", 
+        "type": "movie", 
+        "year": "2012"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Lost in Translation (2003)", 
+        "genres": "Oscar-winning Movies", 
+        "plot": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.", 
+        "rating": "3.2", 
+        "title": "Lost in Translation", 
+        "type": "movie", 
+        "year": "2003"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Memento (2000)", 
+        "genres": "Independent Movies", 
+        "plot": "Suffering short-term memory loss after a head injury, Leonard Shelby embarks on a grim quest to find out who murdered his wife. Shelby snaps Polaroids of people and places, jotting down contextual notes on the backs of photos to aid in his search.", 
+        "rating": "3.8", 
+        "title": "Memento", 
+        "type": "movie", 
+        "year": "2000"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Blue Ruin (2013)", 
+        "genres": "Thrillers", 
+        "plot": "Bad news from the past unhinges vagabond Dwight Evans, sending him on a mission of bloody retribution that takes him to his childhood hometown.", 
+        "rating": "3.2", 
+        "title": "Blue Ruin", 
+        "type": "movie", 
+        "year": "2013"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Dead Man (1995)", 
+        "genres": "Action & Adventure", 
+        "plot": "Only Jim Jarmusch could direct a Western like this: a poetry-loving American Indian mistakes accountant William Blake (Johnny Depp) for the English writer by the same name, while bounty hunters take Blake for a murderer. Jarmusch packs his independent-minded film with an unlikely collection of castmates, including Iggy Pop, Gabriel Byrne, John Hurt -- and Robert Mitchum, in one of his final big-screen roles.", 
+        "rating": "3.5", 
+        "title": "Dead Man", 
+        "type": "movie", 
+        "year": "1995"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "There Will Be Blood (2007)", 
+        "genres": "Oscar-winning Movies", 
+        "plot": "In this expansive drama, ambitious prospector Daniel Plainview strikes it rich when he buys the oil rights to a California family's ranch. As he turns a simple village into a boomtown, Plainview stokes the ire of a charismatic young preacher.", 
+        "rating": "3.7", 
+        "title": "There Will Be Blood", 
+        "type": "movie", 
+        "year": "2007"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Traffic (2000)", 
+        "genres": "Oscar-winning Movies", 
+        "plot": "Interlacing three disturbing snapshots of America's drug war, this Oscar-winning saga follows a U.S. drug czar who learns his daughter's an addict, a Mexican cop caught in a corrupt system and a housewife forced to take over the family drug business.", 
+        "rating": "3.8", 
+        "title": "Traffic", 
+        "type": "movie", 
+        "year": "2000"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Trainspotting (1996)", 
+        "genres": "Comedies", 
+        "plot": "Danny Boyle's explosive 1996 film tracks the misadventures of young men (played by a cast that includes Ewan MacGregor, Robert Carlyle and Jon Lee Miller) trying to find their way out of joblessness, aimless relationships and drug addiction. Some are successful, while others are hopelessly not. Based on Irvine Walsh's novel, Trainspotting melds grit with poetry, resulting in a film of harsh truths and stunning grace.", 
+        "rating": "3.8", 
+        "title": "Trainspotting", 
+        "type": "movie", 
+        "year": "1996"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Valhalla Rising (2009)", 
+        "genres": "Action & Adventure", 
+        "plot": "Disfigured warrior One-Eye kills his master and escapes, taking the man's young son with him. The pair sets sail with a band of Christian Crusaders bound for the Holy Land, but they arrive in the nightmarish New World instead.", 
+        "rating": "2.9", 
+        "title": "Valhalla Rising", 
+        "type": "movie", 
+        "year": "2009"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Waking Life (2001)", 
+        "genres": "Dramas", 
+        "plot": "Richard Linklater's animated film follows a young man's philosophical discussions with a succession of eccentrics and passionate thinkers.", 
+        "rating": "3.6", 
+        "title": "Waking Life", 
+        "type": "movie", 
+        "year": "2001"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Welcome to Dongmakgol (2005)", 
+        "genres": "Action & Adventure", 
+        "plot": "In a remote village in war-ravaged Korea, fate brings together a U.S. fighter pilot whose plane crash-landed, three retreating North Korean soldiers and two lost South Korean soldiers. The three work together to save the village from destruction.", 
+        "rating": "3.8", 
+        "title": "Welcome to Dongmakgol", 
+        "type": "movie", 
+        "year": "2005"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Zodiac (2007)", 
+        "genres": "Dramas", 
+        "plot": "Based on events in the 1960s and '70s, this chilling drama recounts the actions of a killer who stalked the streets of San Francisco and left clues in the newspaper, relating the mystery through a cartoonist who became obsessed with the case.", 
+        "rating": "3.5", 
+        "title": "Zodiac", 
+        "type": "movie", 
+        "year": "2007"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Barbara (2012)", 
+        "genres": "Dramas", 
+        "plot": "In 1980 East Germany, Barbara, a doctor, is reassigned to a small rural hospital as punishment for trying to find work in the West. Biding time until her lover can help her defect, Barbara begins to suspect that her new boss knows of her plans.", 
+        "rating": "3.6", 
+        "title": "Barbara", 
+        "type": "movie", 
+        "year": "2012"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Gattaca (1997)", 
+        "genres": "Sci-Fi & Fantasy", 
+        "plot": "In a future where status is determined by genetics, a genetically flawed man conspires to game the system in order to achieve his lifelong dream.", 
+        "rating": "3.7", 
+        "title": "Gattaca", 
+        "type": "movie", 
+        "year": "1997"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Gladiator (2000)", 
+        "genres": "Action & Adventure", 
+        "plot": "Tapped for the throne after the death of the emperor, a Roman general instead finds himself condemned to die by the late ruler's power-hungry son.", 
+        "rating": "4.3", 
+        "title": "Gladiator", 
+        "type": "movie", 
+        "year": "2000"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Good Will Hunting (1997)", 
+        "genres": "Independent Movies", 
+        "plot": "When professors discover that an aimless janitor is also a math genius, a therapist helps the young man confront the demons that are holding him back.", 
+        "rating": "4.1", 
+        "title": "Good Will Hunting", 
+        "type": "movie", 
+        "year": "1997"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Harakiri (1962)", 
+        "genres": "Classic Movies", 
+        "plot": "An adaptation of Madame Butterfly, the tragic romance HARAKIRI indulged Lang's fascination with Asian culture and Orientalist design. Filmed on the outskirts of Berlin, Lang strived for authenticity, and obtained sets and costumes from the Hamburg Anthropological Museum.", 
+        "rating": "2.2", 
+        "title": "Harakiri", 
+        "type": "movie", 
+        "year": "1919"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Into The Wild (2007)", 
+        "genres": "Dramas", 
+        "plot": "A young man gives up everything -- including his trust fund and ties to a seemingly stable family -- to lead a solitary life in the wild, eschewing convention to trek across Alaska's harsh and unforgiving terrain.", 
+        "rating": "3.8", 
+        "title": "Into the Wild", 
+        "type": "movie", 
+        "year": "2007"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Jackie Brown (1997)", 
+        "genres": "Dramas", 
+        "plot": "Jackie Brown is an aging flight attendant who smuggles cash on the side. But when she's busted and pressured to help with an investigation, she plans to play the opposing forces against each other and walk away with the dough.", 
+        "rating": "3.7", 
+        "title": "Jackie Brown", 
+        "type": "movie", 
+        "year": "1997"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Nobody Knows (2004)", 
+        "genres": "Dramas", 
+        "plot": "Japanese director Hirokazu Koreeda's touching film follows the empty lives of 12-year-old Akira (Y&#251;ya Yagira) and his three younger siblings (Ayu Kitaura, Hiei Kimura and Momoko Shimizu) after their mother abandons them in a tiny Tokyo apartment. Pragmatic, determined and wise beyond his years, Akira manages the household as best he can -- but eventually the money runs out, and the children must find new ways to survive. Based on a true story.", 
+        "rating": "3.7", 
+        "title": "Nobody Knows", 
+        "type": "movie", 
+        "year": "2005"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Paths of Glory (1957)", 
+        "genres": "Dramas", 
+        "plot": "After French troops refuse to accept orders amounting to a suicide mission against German fire, the army tries the soldiers on charges of cowardice.", 
+        "rating": "3.8", 
+        "title": "Paths of Glory", 
+        "type": "movie", 
+        "year": "1957"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Pi (1998)", 
+        "genres": "Dramas", 
+        "plot": "Darren Aronofsky's jarring black-and-white brain-bender is a haunting examination of one man's numerical obsession. The story follows a fragile number theorist who's on the trail of a 216-digit number that could unlock the secrets of the universe.", 
+        "rating": "3.5", 
+        "title": "Pi", 
+        "type": "movie", 
+        "year": "1998"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "The Chaser (2008)", 
+        "genres": "Foreign Movies", 
+        "plot": "When his escorts start disappearing without settling their debts, a cash-strapped pimp -- and former police detective -- draws upon the skills of his old job to track down one of his recently missing prostitutes.", 
+        "rating": "3.8", 
+        "title": "The Chaser", 
+        "type": "movie", 
+        "year": "2008"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "The Elephant Man (1980)", 
+        "genres": "Independent Movies", 
+        "plot": "With a disfigured face and barely perceptible speech, John Merrick endures ostracizing behavior as a sideshow attraction in mid-19th century England.", 
+        "rating": "3.7", 
+        "title": "The Elephant Man", 
+        "type": "movie", 
+        "year": "1980"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "The Flowers Of War (2011)", 
+        "genres": "Dramas", 
+        "plot": "In 1937, as the Japanese army brutally invades the Chinese city of Nanking, an American mortician is trapped inside a western cathedral and vows to protect a group of young schoolgirls and 13 courtesans who are seeking refuge from the soldiers.", 
+        "rating": "3.9", 
+        "title": "The Flowers of War", 
+        "type": "movie", 
+        "year": "2011"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "The Game (1997)", 
+        "genres": "TV Shows", 
+        "plot": "Medical student Melanie Barnett (Tia Mowry) gives up a promising future as a doctor to follow her boyfriend, Derwin Davis (Pooch Hall), as he starts his pro football career with the San Diego Sabers. Out of her element, Melanie must find her place within the high-powered world of professional sports. Refusing to become a trophy wife, she pursues her passions while getting to know various other personalities who orbit the team.", 
+        "rating": "4.2", 
+        "title": "The Game", 
+        "type": "movie", 
+        "year": "2006"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "The Hunt (2012)", 
+        "genres": "Dramas", 
+        "plot": "In this Oscar nominated film, Lucas has a new job and a girlfriend, and is working on his relationship with his teenage son. But an unfounded accusation of pedophilia changes everything as his community turns against him.", 
+        "rating": "3.9", 
+        "title": "The Hunt", 
+        "type": "movie", 
+        "year": "2012"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "The Man From Nowhere (2010)", 
+        "genres": "Action & Adventure", 
+        "plot": "Tae-Sik is a widower with a mysterious past. When a young girl he befriends is kidnapped by a vicious drug gang, Tae-Sik rushes to save her. Hell-bent on justice after being framed by the nasty criminals, he takes the law into his own hands.", 
+        "rating": "4.2", 
+        "title": "The Man from Nowhere", 
+        "type": "movie", 
+        "year": "2010"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "The Pursuit of Happyness (2006)", 
+        "genres": "Documentaries", 
+        "plot": "Filmmaker Patrick McGuinn follows the Aluminum Group (composed of Navin brothers Frank and John) on their 2003 tour of Italy, as they win over audiences with their Prada tuxedoes and intellectual spin on 1970s smooth pop.", 
+        "rating": "2.3", 
+        "title": "The Pursuit of Happyness", 
+        "type": "movie", 
+        "year": "2005"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "The Truman Show (1998)", 
+        "genres": "Dramas", 
+        "plot": "Truman Burbank is the star of \"The Truman Show,\" a 24-hour-a-day TV phenomenon that broadcasts every aspect of his life without his knowledge.", 
+        "rating": "3.7", 
+        "title": "The Truman Show", 
+        "type": "movie", 
+        "year": "1998"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "The Usual Suspects (1995)", 
+        "genres": "Oscar-winning Movies", 
+        "plot": "When five unacquainted crooks are hauled into a police station to appear in a criminal lineup, they decide to pull off a heist together. The plan gets complicated, however, when they intermix with an underworld kingpin named Keyser S&#246;ze.", 
+        "rating": "4.3", 
+        "title": "The Usual Suspects", 
+        "type": "movie", 
+        "year": "1995"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Capote (2005)", 
+        "genres": "Oscar-winning Movies", 
+        "plot": "The toast of New York City society after penning \"Breakfast at Tiffany's,\" flamboyant writer Truman Capote finds himself in a dance with the devil while researching the Clutter family murders for his masterwork, \"In Cold Blood.\"", 
+        "rating": "3.6", 
+        "title": "Capote", 
+        "type": "movie", 
+        "year": "2005"
+    }, 
+    {
+        "api_name": "netflix", 
+        "dir": "Confessions Of A Dangerous Mind (2002)", 
+        "genres": "Comedies", 
+        "plot": "Trash-TV maven Chuck Barris has it all -- the hit series \"The Gong Show\" and the love of a good woman. But he also has a big, dark secret: He's a CIA assassin who kills while purportedly escorting his game show winners on their vacation prizes.", 
+        "rating": "3.3", 
+        "title": "Confessions of a Dangerous Mind", 
+        "type": "movie", 
+        "year": "2002"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "12 Angry Men (1957)", 
+        "genres": "Crime, Drama", 
+        "plot": "A dissenting juror in a murder trial slowly manages to convince the others that the case is not as obviously clear as it seemed in court.", 
+        "rating": "8.9", 
+        "title": "12 Angry Men", 
+        "type": "movie", 
+        "year": "1957"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "2001 A Space Odyssey (1968)", 
+        "genres": "Mystery, Sci-Fi", 
+        "plot": "Humanity finds a mysterious, obviously artificial, object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.", 
+        "rating": "8.3", 
+        "title": "2001: A Space Odyssey", 
+        "type": "movie", 
+        "year": "1968"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "25th Hour (2002)", 
+        "genres": "Crime, Drama", 
+        "plot": "Cornered by the DEA, convicted New York drug dealer Montgomery Brogan reevaluates his life in the 24 remaining hours before facing a seven-year jail term.", 
+        "rating": "7.7", 
+        "title": "25th Hour", 
+        "type": "movie", 
+        "year": "2002"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "A Beautiful Mind (2001)", 
+        "genres": "Biography, Drama", 
+        "plot": "After a brilliant but asocial mathematician, John Nash, accepts secret work in cryptography, his life takes a turn for the nightmarish.", 
+        "rating": "8.2", 
+        "title": "A Beautiful Mind", 
+        "type": "movie", 
+        "year": "2001"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "A Bittersweet Life (2005)", 
+        "genres": "Action, Crime, Drama", 
+        "plot": "Things go wrong for a high ranking mobster when he doesn't proceed by his boss's orders.", 
+        "rating": "7.7", 
+        "title": "A Bittersweet Life", 
+        "type": "movie", 
+        "year": "2005"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "A Brilliant Young Mind (2014)", 
+        "genres": "Comedy, Drama", 
+        "plot": "A socially awkward teenage math prodigy finds new confidence and new friendships when he lands a spot on the British squad at the International Mathematics Olympiad.", 
+        "rating": "7.2", 
+        "title": "A Brilliant Young Mind", 
+        "type": "movie", 
+        "year": "2014"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "A Scanner Darkly (2006)", 
+        "genres": "Animation, Sci-Fi, Thriller", 
+        "plot": "An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.", 
+        "rating": "7.1", 
+        "title": "A Scanner Darkly", 
+        "type": "movie", 
+        "year": "2006"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Abre Los Ojos (1997)", 
+        "genres": "Short, Comedy, Drama", 
+        "plot": "What did you take? Drugs or just alcohol?", 
+        "rating": "N/A", 
+        "title": "Abre los ojos", 
+        "type": "movie", 
+        "year": "2013"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "American Beauty (1999)", 
+        "genres": "Drama, Romance", 
+        "plot": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.", 
+        "rating": "8.4", 
+        "title": "American Beauty", 
+        "type": "movie", 
+        "year": "1999"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "American Gangster (2007)", 
+        "genres": "Biography, Crime, Drama", 
+        "plot": "In 1970s America, a detective works to bring down the drug empire of Frank Lucas, a heroin kingpin from Manhattan, who is smuggling the drug into the country from the Far East.", 
+        "rating": "7.8", 
+        "title": "American Gangster", 
+        "type": "movie", 
+        "year": "2007"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "American History X (1998)", 
+        "genres": "Crime, Drama", 
+        "plot": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.", 
+        "rating": "8.6", 
+        "title": "American History X", 
+        "type": "movie", 
+        "year": "1998"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "American Mary (2012)", 
+        "genres": "Crime, Drama, Horror", 
+        "plot": "The allure of easy money sends Mary Mason, a medical student, into the world of underground surgeries which ends up leaving more marks on her than her so called \"freakish\" clients.", 
+        "rating": "6.3", 
+        "title": "American Mary", 
+        "type": "movie", 
+        "year": "2012"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "American Sniper (2014)", 
+        "genres": "Action, Biography, Drama", 
+        "plot": "Navy SEAL sniper Chris Kyle's pinpoint accuracy saves countless lives on the battlefield and turns him into a legend. Back home to his wife and kids after four tours of duty, however, Chris finds that it is the war he can't leave behind.", 
+        "rating": "7.3", 
+        "title": "American Sniper", 
+        "type": "movie", 
+        "year": "2014"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Anna Karenina (2012)", 
+        "genres": "Drama, Romance", 
+        "plot": "In late-19th-century Russian high society, St. Petersburg aristocrat Anna Karenina enters into a life-changing affair with the dashing Count Alexei Vronsky.", 
+        "rating": "6.6", 
+        "title": "Anna Karenina", 
+        "type": "movie", 
+        "year": "2012"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Another Earth (2011)", 
+        "genres": "Drama, Romance, Sci-Fi", 
+        "plot": "On the night of the discovery of a duplicate Earth in the Solar system, an ambitious young student and an accomplished composer cross paths in a tragic accident.", 
+        "rating": "7.0", 
+        "title": "Another Earth", 
+        "type": "movie", 
+        "year": "2011"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Predestination (2014)", 
+        "genres": "Drama, Mystery, Sci-Fi", 
+        "plot": "The life of a time-traveling Temporal Agent. On his final assignment, he must pursue the one criminal that has eluded him throughout time.", 
+        "rating": "7.4", 
+        "title": "Predestination", 
+        "type": "movie", 
+        "year": "2014"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Primer (2004)", 
+        "genres": "Drama, Sci-Fi, Thriller", 
+        "plot": "Four friends/fledgling entrepreneurs, knowing that there's something bigger and more innovative than the different error-checking devices they've built, wrestle over their new invention.", 
+        "rating": "7.0", 
+        "title": "Primer", 
+        "type": "movie", 
+        "year": "2004"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Pulp Fiction (1994)", 
+        "genres": "Crime, Drama", 
+        "plot": "The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.", 
+        "rating": "8.9", 
+        "title": "Pulp Fiction", 
+        "type": "movie", 
+        "year": "1994"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Ravenous (1999)", 
+        "genres": "Horror, Thriller", 
+        "plot": "Captain John Boyd's promotion stations him at a fort where a rescued man tells a disturbing tale of cannibalism.", 
+        "rating": "7.1", 
+        "title": "Ravenous", 
+        "type": "movie", 
+        "year": "1999"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Reservoir Dogs (1992)", 
+        "genres": "Crime, Drama", 
+        "plot": "After a simple jewelery heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.", 
+        "rating": "8.4", 
+        "title": "Reservoir Dogs", 
+        "type": "movie", 
+        "year": "1992"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Road to Perdition (2002)", 
+        "genres": "Crime, Drama, Thriller", 
+        "plot": "Bonds of loyalty are put to the test when a hitman's son witnesses what his father does for a living.", 
+        "rating": "7.7", 
+        "title": "Road to Perdition", 
+        "type": "movie", 
+        "year": "2002"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Rope (1948)", 
+        "genres": "Crime, Drama, Thriller", 
+        "plot": "Two young men strangle their \"inferior\" classmate, hide his body in their apartment, and invite his friends and family to a dinner party as a means to challenge the \"perfection\" of their crime.", 
+        "rating": "8.0", 
+        "title": "Rope", 
+        "type": "movie", 
+        "year": "1948"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Rushmore (1998)", 
+        "genres": "Comedy, Drama", 
+        "plot": "The extracurricular king of Rushmore preparatory school is put on academic probation.", 
+        "rating": "7.7", 
+        "title": "Rushmore", 
+        "type": "movie", 
+        "year": "1998"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Se7en (1995)", 
+        "genres": "Drama, Mystery, Thriller", 
+        "plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his modus operandi.", 
+        "rating": "8.6", 
+        "title": "Se7en", 
+        "type": "movie", 
+        "year": "1995"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Sea Fog (2014)", 
+        "genres": "Drama, Thriller", 
+        "plot": "N/A", 
+        "rating": "N/A", 
+        "title": "Sea Fog", 
+        "type": "movie", 
+        "year": "2014"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Seven Samurai (1954)", 
+        "genres": "Drama", 
+        "plot": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.", 
+        "rating": "8.7", 
+        "title": "Seven Samurai", 
+        "type": "movie", 
+        "year": "1954"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Silenced (2011)", 
+        "genres": "Drama", 
+        "plot": "Gang In-ho, who is working to earn money for his daughter's surgery, is appointed to a school for hearing-impaired children in Gwangju. But what he discovers there is an ugly truth: the ...", 
+        "rating": "7.9", 
+        "title": "Silenced", 
+        "type": "movie", 
+        "year": "2011"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Sin City (2005)", 
+        "genres": "Crime, Thriller", 
+        "plot": "A film that explores the dark and miserable town, Basin City, and tells the story of three different people, all caught up in violent corruption.", 
+        "rating": "8.1", 
+        "title": "Sin City", 
+        "type": "movie", 
+        "year": "2005"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Sin City A Dame to Kill For (2014)", 
+        "genres": "Crime, Thriller", 
+        "plot": "Some of Sin City's most hard-boiled citizens cross paths with a few of its more reviled inhabitants.", 
+        "rating": "6.6", 
+        "title": "Sin City: A Dame to Kill For", 
+        "type": "movie", 
+        "year": "2014"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Sleuth (2007)", 
+        "genres": "Mystery, Thriller", 
+        "plot": "A man who loves games and theater invites his wife's lover to meet him, setting up a battle of wits with potentially deadly results.", 
+        "rating": "8.1", 
+        "title": "Sleuth", 
+        "type": "movie", 
+        "year": "1972"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Snatch (2000)", 
+        "genres": "Adult", 
+        "plot": "N/A", 
+        "rating": "N/A", 
+        "title": "Snatch", 
+        "type": "movie", 
+        "year": "2006"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Snowpiercer (2013)", 
+        "genres": "Action, Drama, Sci-Fi", 
+        "plot": "Set in a future where a failed climate-change experiment kills all life on the planet except for a lucky few who boarded the Snowpiercer, a train that travels around the globe, where a class system emerges.", 
+        "rating": "7.0", 
+        "title": "Snowpiercer", 
+        "type": "movie", 
+        "year": "2013"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Southland Tales (2006)", 
+        "genres": "Comedy, Drama, Sci-Fi", 
+        "plot": "During a three day heat wave just before a huge 4th of July celebration, an action star stricken with amnesia meets up with a porn star who is developing her own reality TV project, and a policeman who holds the key to a vast conspiracy.", 
+        "rating": "5.5", 
+        "title": "Southland Tales", 
+        "type": "movie", 
+        "year": "2006"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Spring Summer Fall Winter and Spring (2003)", 
+        "genres": "Drama", 
+        "plot": "On an isolated lake, an old monk lives on a small floating temple. The wise master has also a young boy with him who learns to become a monk. And we watch as seasons and years pass by.", 
+        "rating": "8.1", 
+        "title": "Spring, Summer, Fall, Winter... and Spring", 
+        "type": "movie", 
+        "year": "2003"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Stalker (1979)", 
+        "genres": "Drama, Sci-Fi", 
+        "plot": "A guide leads two men through an area known as the Zone to find a room that grants wishes.", 
+        "rating": "8.2", 
+        "title": "Stalker", 
+        "type": "movie", 
+        "year": "1979"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Star Wars (1977-2005)", 
+        "genres": "Action, Adventure, Sci-Fi", 
+        "plot": "N/A", 
+        "rating": "7.8", 
+        "title": "Star Wars", 
+        "type": "movie", 
+        "year": "1983"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Still Alice (2014)", 
+        "genres": "Drama", 
+        "plot": "A linguistics professor and her family find their bonds tested when she is diagnosed with Alzheimer's Disease.", 
+        "rating": "7.5", 
+        "title": "Still Alice", 
+        "type": "movie", 
+        "year": "2014"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Death Proof (2007)", 
+        "genres": "Thriller", 
+        "plot": "Two separate sets of voluptuous women are stalked at different times by a scarred stuntman who uses his \"death proof\" cars to execute his murderous plans.", 
+        "rating": "7.1", 
+        "title": "Death Proof", 
+        "type": "movie", 
+        "year": "2007"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Despicable Me 2 (2013)", 
+        "genres": "Animation, Comedy, Family", 
+        "plot": "When Gru, the world's most super-bad turned super-dad has been recruited by a team of officials to stop lethal muscle and a host of Gru's own, He has to fight back with new gadgetry, cars, and more minion madness.", 
+        "rating": "7.5", 
+        "title": "Despicable Me 2", 
+        "type": "movie", 
+        "year": "2013"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Disturbia (2007)", 
+        "genres": "Drama, Mystery, Thriller", 
+        "plot": "A teen living under house arrest becomes convinced his neighbor is a serial killer.", 
+        "rating": "6.9", 
+        "title": "Disturbia", 
+        "type": "movie", 
+        "year": "2007"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Divergent (2014)", 
+        "genres": "Adventure, Mystery, Sci-Fi", 
+        "plot": "In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.", 
+        "rating": "6.8", 
+        "title": "Divergent", 
+        "type": "movie", 
+        "year": "2014"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Django Unchained (2012)", 
+        "genres": "Western", 
+        "plot": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.", 
+        "rating": "8.5", 
+        "title": "Django Unchained", 
+        "type": "movie", 
+        "year": "2012"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Dr Strangelove (1964)", 
+        "genres": "Comedy, War", 
+        "plot": "An insane general triggers a path to nuclear holocaust that a war room full of politicians and generals frantically try to stop.", 
+        "rating": "8.5", 
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb", 
+        "type": "movie", 
+        "year": "1964"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Dredd (2012)", 
+        "genres": "Action, Sci-Fi", 
+        "plot": "In a violent, futuristic city where the police have the authority to act as judge, jury and executioner, a cop teams with a trainee to take down a gang that deals the reality-altering drug, SLO-MO.", 
+        "rating": "7.0", 
+        "title": "Dredd", 
+        "type": "movie", 
+        "year": "2012"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Eureka (2000)", 
+        "genres": "Comedy, Drama, Sci-Fi", 
+        "plot": "The best minds in the US are tucked away in a remote town where they build futuristic inventions for the government's benefit.", 
+        "rating": "7.9", 
+        "title": "Eureka", 
+        "type": "movie", 
+        "year": "2006\u20132012"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Ex Machina (2015)", 
+        "genres": "Drama, Mystery, Romance", 
+        "plot": "A young programmer is selected to participate in a ground-breaking experiment in artificial intelligence by evaluating the human qualities of a breath-taking female A.I.", 
+        "rating": "7.7", 
+        "title": "Ex Machina", 
+        "type": "movie", 
+        "year": "2015"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Exit Through the Gift Shop (2010)", 
+        "genres": "Documentary, Comedy", 
+        "plot": "The story of how an eccentric French shop keeper and amateur film maker attempted to locate and befriend Banksy, only to have the artist turn the camera back on its owner. The film contains...", 
+        "rating": "8.0", 
+        "title": "Exit Through the Gift Shop", 
+        "type": "movie", 
+        "year": "2010"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Eyes Wide Shut (1999)", 
+        "genres": "Drama, Mystery, Thriller", 
+        "plot": "A New York City doctor, who is married to an art curator, pushes himself on a harrowing and dangerous night-long odyssey of sexual and moral discovery after his wife admits that she once almost cheated on him.", 
+        "rating": "7.3", 
+        "title": "Eyes Wide Shut", 
+        "type": "movie", 
+        "year": "1999"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Fish Tank (2009)", 
+        "genres": "Drama", 
+        "plot": "Everything changes for 15-year-old Mia when her mum brings home a new boyfriend.", 
+        "rating": "7.3", 
+        "title": "Fish Tank", 
+        "type": "movie", 
+        "year": "2009"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Forrest Gump (1994)", 
+        "genres": "Drama, Romance", 
+        "plot": "Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.", 
+        "rating": "8.8", 
+        "title": "Forrest Gump", 
+        "type": "movie", 
+        "year": "1994"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Killing Them Softly (2012)", 
+        "genres": "Crime, Thriller", 
+        "plot": "Jackie Cogan is an enforcer hired to restore order after three dumb guys rob a Mob protected card game, causing the local criminal economy to collapse.", 
+        "rating": "6.2", 
+        "title": "Killing Them Softly", 
+        "type": "movie", 
+        "year": "2012"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Kingdom of Heaven (2005)", 
+        "genres": "Action, Adventure, Drama", 
+        "plot": "Balian of Ibelin travels to Jerusalem during the crusades of the 12th century, and there he finds himself as the defender of the city and its people.", 
+        "rating": "7.2", 
+        "title": "Kingdom of Heaven", 
+        "type": "movie", 
+        "year": "2005"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Laurence Anyways (2012)", 
+        "genres": "Drama, Romance", 
+        "plot": "A drama that charts ten years in the relationship of a male-to-female transsexual's relationship with her lover.", 
+        "rating": "7.6", 
+        "title": "Laurence Anyways", 
+        "type": "movie", 
+        "year": "2012"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Little Miss Sunshine (2006)", 
+        "genres": "Comedy, Drama", 
+        "plot": "A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.", 
+        "rating": "7.9", 
+        "title": "Little Miss Sunshine", 
+        "type": "movie", 
+        "year": "2006"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Lost in Translation (2003)", 
+        "genres": "Drama", 
+        "plot": "A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.", 
+        "rating": "7.8", 
+        "title": "Lost in Translation", 
+        "type": "movie", 
+        "year": "2003"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Love Exposure (2008)", 
+        "genres": "Action, Comedy, Drama", 
+        "plot": "A bizarre love triangle forms between a young Catholic upskirt photographer, a misandric girl and a manipulative cultist.", 
+        "rating": "8.1", 
+        "title": "Love Exposure", 
+        "type": "movie", 
+        "year": "2008"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Mad Max Fury Road (2015)", 
+        "genres": "Action, Adventure, Sci-Fi", 
+        "plot": "A woman rebels against a tyrannical ruler in post apocalyptic Australia in search for her homeland with the help of a group of female prisoners, a psychotic worshiper, and a drifter named Max.", 
+        "rating": "8.3", 
+        "title": "Mad Max: Fury Road", 
+        "type": "movie", 
+        "year": "2015"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Memento (2000)", 
+        "genres": "Mystery, Thriller", 
+        "plot": "A man creates a strange system to help him remember things; so he can hunt for the murderer of his wife without his short-term memory loss being an obstacle.", 
+        "rating": "8.5", 
+        "title": "Memento", 
+        "type": "movie", 
+        "year": "2000"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Memories Of Murder (2003)", 
+        "genres": "Crime, Drama, Mystery", 
+        "plot": "In 1986, in the province of Gyunggi, in South Korea, a second young and beautiful woman is found dead, raped and tied and gagged with her underwear. Detective Park Doo-Man and Detective Cho...", 
+        "rating": "8.1", 
+        "title": "Memories of Murder", 
+        "type": "movie", 
+        "year": "2003"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Metropolis (1927)", 
+        "genres": "Drama, Sci-Fi", 
+        "plot": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.", 
+        "rating": "8.3", 
+        "title": "Metropolis", 
+        "type": "movie", 
+        "year": "1927"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Millennium Actress (2001)", 
+        "genres": "Animation, Drama, Fantasy", 
+        "plot": "A TV interviewer and his cameraman meet a former actress and travel through her memories and career.", 
+        "rating": "7.9", 
+        "title": "Millennium Actress", 
+        "type": "movie", 
+        "year": "2001"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Mishima A Life In Four Chapters (1985)", 
+        "genres": "Biography, Drama", 
+        "plot": "A fictionalized account in four segments of the life of Japan's celebrated twentieth-century author Yukio Mishima. Three of the segments parallel events in Mishima's life with his novels (...", 
+        "rating": "7.9", 
+        "title": "Mishima: A Life in Four Chapters", 
+        "type": "movie", 
+        "year": "1985"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Mommy (2014)", 
+        "genres": "Drama", 
+        "plot": "A widowed single mother, raising her violent son alone, finds new hope when a mysterious neighbor inserts herself into their household.", 
+        "rating": "8.2", 
+        "title": "Mommy", 
+        "type": "movie", 
+        "year": "2014"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Monty Python and the Holy Grail (1974)", 
+        "genres": "Adventure, Comedy, Fantasy", 
+        "plot": "King Arthur and his knights embark on a low-budget search for the Grail, encountering many very silly obstacles.", 
+        "rating": "8.3", 
+        "title": "Monty Python and the Holy Grail", 
+        "type": "movie", 
+        "year": "1975"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Avengers Age of Ultron (2015)", 
+        "genres": "Short, Comedy", 
+        "plot": "N/A", 
+        "rating": "7.6", 
+        "title": "Avengers Age of Ultron: Marvelous Movie Shawarma", 
+        "type": "movie", 
+        "year": "2013"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Blue Ruin (2013)", 
+        "genres": "Crime, Drama, Thriller", 
+        "plot": "A mysterious outsider's quiet life is turned upside down when he returns to his childhood home to carry out an act of vengeance. Proving himself an amateur assassin, he winds up in a brutal fight to protect his estranged family.", 
+        "rating": "7.1", 
+        "title": "Blue Ruin", 
+        "type": "movie", 
+        "year": "2013"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Dead Man (1995)", 
+        "genres": "Drama, Fantasy, Western", 
+        "plot": "On the run after murdering a man, accountant William Blake encounters a strange North American man named Nobody who prepares him for his journey into the spiritual world.", 
+        "rating": "7.7", 
+        "title": "Dead Man", 
+        "type": "movie", 
+        "year": "1995"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Foxcatcher (2014)", 
+        "genres": "Biography, Drama, Sport", 
+        "plot": "The greatest Olympic Wrestling Champion brother team joins Team Foxcatcher led by multimillionaire sponsor John E. du Pont as they train for the 1988 games in Seoul - a union that leads to unlikely circumstances.", 
+        "rating": "7.1", 
+        "title": "Foxcatcher", 
+        "type": "movie", 
+        "year": "2014"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Jurassic Park (1993)", 
+        "genres": "Adventure, Sci-Fi, Thriller", 
+        "plot": "During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.", 
+        "rating": "8.1", 
+        "title": "Jurassic Park", 
+        "type": "movie", 
+        "year": "1993"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Mr Nobody (2009)", 
+        "genres": "Short, Music", 
+        "plot": "N/A", 
+        "rating": "N/A", 
+        "title": "Mr Nobody 370", 
+        "type": "movie", 
+        "year": "2015"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Point Break (1991)", 
+        "genres": "Action, Crime, Thriller", 
+        "plot": "An FBI agent goes undercover to catch a gang of bank robbers who may be surfers.", 
+        "rating": "7.2", 
+        "title": "Point Break", 
+        "type": "movie", 
+        "year": "1991"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Aviator (2004)", 
+        "genres": "Biography, Drama", 
+        "plot": "A biopic depicting the early years of legendary director and aviator Howard Hughes' career, from the late 1920s to the mid-1940s.", 
+        "rating": "7.5", 
+        "title": "The Aviator", 
+        "type": "movie", 
+        "year": "2004"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Zero Theorem (2014)", 
+        "genres": "Drama, Fantasy, Sci-Fi", 
+        "plot": "A hugely talented but socially isolated computer operator is tasked by Management to prove the Zero Theorem: that the universe ends as nothing, rendering life meaningless. But meaning is ...", 
+        "rating": "6.1", 
+        "title": "The Zero Theorem", 
+        "type": "movie", 
+        "year": "2013"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "There Will Be Blood (2007)", 
+        "genres": "Drama", 
+        "plot": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.", 
+        "rating": "8.1", 
+        "title": "There Will Be Blood", 
+        "type": "movie", 
+        "year": "2007"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Thor (2011)", 
+        "genres": "Action, Adventure, Fantasy", 
+        "plot": "The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.", 
+        "rating": "7.0", 
+        "title": "Thor", 
+        "type": "movie", 
+        "year": "2011"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Traffic (2000)", 
+        "genres": "Crime, Drama, Thriller", 
+        "plot": "A conservative judge is appointed by the President to spearhead America's escalating war against drugs, only to discover that his teenage daughter is a crack addict. Two DEA agents protect an informant. A jailed drug baron's wife attempts to carry on the family business.", 
+        "rating": "7.7", 
+        "title": "Traffic", 
+        "type": "movie", 
+        "year": "2000"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Trainspotting (1996)", 
+        "genres": "Drama", 
+        "plot": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.", 
+        "rating": "8.2", 
+        "title": "Trainspotting", 
+        "type": "movie", 
+        "year": "1996"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Twelve Monkeys (1995)", 
+        "genres": "Mystery, Sci-Fi, Thriller", 
+        "plot": "In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.", 
+        "rating": "8.1", 
+        "title": "Twelve Monkeys", 
+        "type": "movie", 
+        "year": "1995"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "V for Vendetta (2006)", 
+        "genres": "Action, Drama, Thriller", 
+        "plot": "In a future British tyranny, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow it with the help of a young woman.", 
+        "rating": "8.2", 
+        "title": "V for Vendetta", 
+        "type": "movie", 
+        "year": "2005"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Valhalla Rising (2009)", 
+        "genres": "Adventure, Drama, Fantasy", 
+        "plot": "1000 AD, for years, One Eye, a mute warrior of supernatural strength, has been held prisoner by the Norse chieftain Barde. Aided by Are, a boy slave, One Eye slays his captor and together ...", 
+        "rating": "6.0", 
+        "title": "Valhalla Rising", 
+        "type": "movie", 
+        "year": "2009"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Waking Life (2001)", 
+        "genres": "Animation, Drama, Fantasy", 
+        "plot": "A man shuffles through a dream meeting various people and discussing the meanings and purposes of the universe.", 
+        "rating": "7.8", 
+        "title": "Waking Life", 
+        "type": "movie", 
+        "year": "2001"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Whiplash (2014)", 
+        "genres": "Drama, Music", 
+        "plot": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.", 
+        "rating": "8.5", 
+        "title": "Whiplash", 
+        "type": "movie", 
+        "year": "2014"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Wild (2014)", 
+        "genres": "Adventure, Biography, Drama", 
+        "plot": "A chronicle of one woman's 1,100-mile solo hike undertaken as a way to recover from a recent personal tragedy.", 
+        "rating": "7.2", 
+        "title": "Wild", 
+        "type": "movie", 
+        "year": "2014"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Wreck-It Ralph (2012)", 
+        "genres": "Animation, Adventure, Comedy", 
+        "plot": "A video game villain wants to be a hero and sets out to fulfill his dream, but his quest brings havoc to the whole arcade where he lives.", 
+        "rating": "7.8", 
+        "title": "Wreck-It Ralph", 
+        "type": "movie", 
+        "year": "2012"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Zodiac (2007)", 
+        "genres": "Crime, Drama, Mystery", 
+        "plot": "A San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac killer.", 
+        "rating": "7.7", 
+        "title": "Zodiac", 
+        "type": "movie", 
+        "year": "2007"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Babel (2006)", 
+        "genres": "Drama", 
+        "plot": "Tragedy strikes a married couple on vacation in the Moroccan desert, touching off an interlocking story involving four different families.", 
+        "rating": "7.5", 
+        "title": "Babel", 
+        "type": "movie", 
+        "year": "2006"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Barbara (2012)", 
+        "genres": "Drama", 
+        "plot": "A doctor working in 1980s East Germany finds herself banished to a small country hospital.", 
+        "rating": "7.1", 
+        "title": "Barbara", 
+        "type": "movie", 
+        "year": "2012"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Barry Lyndon (1975)", 
+        "genres": "Adventure, Drama, History", 
+        "plot": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.", 
+        "rating": "8.1", 
+        "title": "Barry Lyndon", 
+        "type": "movie", 
+        "year": "1975"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Being John Malkovich (1999)", 
+        "genres": "Comedy, Drama, Fantasy", 
+        "plot": "A puppeteer discovers a portal that leads literally into the head of the movie star, John Malkovich.", 
+        "rating": "7.8", 
+        "title": "Being John Malkovich", 
+        "type": "movie", 
+        "year": "1999"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Birdman (2014)", 
+        "genres": "Animation, Action, Adventure", 
+        "plot": "A winged superhero who gets his powers from the sun battles various evildoers with the help of his eagle sidekick Avenger.", 
+        "rating": "7.0", 
+        "title": "Birdman", 
+        "type": "movie", 
+        "year": "1967\u20131969"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Blackhat (2015)", 
+        "genres": "Action, Crime, Drama", 
+        "plot": "A furloughed convict and his American and Chinese partners hunt a high-level cybercrime network from Chicago to Los Angeles to Hong Kong to Jakarta.", 
+        "rating": "5.4", 
+        "title": "Blackhat", 
+        "type": "movie", 
+        "year": "2015"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Blade Runner (1982)", 
+        "genres": "Sci-Fi, Thriller", 
+        "plot": "A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator.", 
+        "rating": "8.2", 
+        "title": "Blade Runner", 
+        "type": "movie", 
+        "year": "1982"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Full Metal Jacket (1987)", 
+        "genres": "Drama, War", 
+        "plot": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.", 
+        "rating": "8.3", 
+        "title": "Full Metal Jacket", 
+        "type": "movie", 
+        "year": "1987"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Gattaca (1997)", 
+        "genres": "Drama, Sci-Fi, Thriller", 
+        "plot": "A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.", 
+        "rating": "7.8", 
+        "title": "Gattaca", 
+        "type": "movie", 
+        "year": "1997"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Gladiator (2000)", 
+        "genres": "Action, Drama", 
+        "plot": "When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.", 
+        "rating": "8.5", 
+        "title": "Gladiator", 
+        "type": "movie", 
+        "year": "2000"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Good Will Hunting (1997)", 
+        "genres": "Drama", 
+        "plot": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.", 
+        "rating": "8.3", 
+        "title": "Good Will Hunting", 
+        "type": "movie", 
+        "year": "1997"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Gosford Park (2001)", 
+        "genres": "Drama, Mystery", 
+        "plot": "The lives of upstairs guest and downstairs servants at a party in 1932 in a country house in England as they investigate a murder involving one of them.", 
+        "rating": "7.3", 
+        "title": "Gosford Park", 
+        "type": "movie", 
+        "year": "2001"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Harakiri (1962)", 
+        "genres": "Action, Drama, History", 
+        "plot": "An elder ronin samurai arrives at a feudal lord's home and requests an honorable place to commit suicide. But when the ronin inquires about a younger samurai who arrived before him things take an unexpected turn.", 
+        "rating": "8.7", 
+        "title": "Harakiri", 
+        "type": "movie", 
+        "year": "1962"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Her (2013)", 
+        "genres": "Drama, Romance, Sci-Fi", 
+        "plot": "A lonely writer develops an unlikely relationship with his newly purchased operating system that's designed to meet his every need.", 
+        "rating": "8.0", 
+        "title": "Her", 
+        "type": "movie", 
+        "year": "2013"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "How to Train Your Dragon 2 (2014)", 
+        "genres": "Animation, Action, Adventure", 
+        "plot": "When Hiccup and Toothless discover an ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.", 
+        "rating": "7.9", 
+        "title": "How to Train Your Dragon 2", 
+        "type": "movie", 
+        "year": "2014"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "I Origins (2014)", 
+        "genres": "Drama", 
+        "plot": "A molecular biologist and his laboratory partner uncover evidence that may fundamentally change society as we know it.", 
+        "rating": "7.3", 
+        "title": "I Origins", 
+        "type": "movie", 
+        "year": "2014"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Inception (2010)", 
+        "genres": "Action, Mystery, Sci-Fi", 
+        "plot": "A thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.", 
+        "rating": "8.8", 
+        "title": "Inception", 
+        "type": "movie", 
+        "year": "2010"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Inglourious Basterds (2009)", 
+        "genres": "Adventure, Drama, War", 
+        "plot": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.", 
+        "rating": "8.3", 
+        "title": "Inglourious Basterds", 
+        "type": "movie", 
+        "year": "2009"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Interstellar (2014)", 
+        "genres": "Adventure, Drama, Sci-Fi", 
+        "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.", 
+        "rating": "8.7", 
+        "title": "Interstellar", 
+        "type": "movie", 
+        "year": "2014"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Into The Wild (2007)", 
+        "genres": "Adventure, Biography, Drama", 
+        "plot": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.", 
+        "rating": "8.2", 
+        "title": "Into the Wild", 
+        "type": "movie", 
+        "year": "2007"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "J.S.A. Joint Security Area (2000)", 
+        "genres": "Drama, Thriller, War", 
+        "plot": "In the DMZ separating North and South Korea, two North Korean soldiers have been killed, supposedly by one South Korean soldier. But the 11 bullets found in the bodies, together with the 5 ...", 
+        "rating": "7.9", 
+        "title": "J.S.A.: Joint Security Area", 
+        "type": "movie", 
+        "year": "2000"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Jackie Brown (1997)", 
+        "genres": "Crime, Drama, Thriller", 
+        "plot": "A middle-aged woman finds herself in the middle of a huge conflict that will either make her a profit or cost her her life.", 
+        "rating": "7.5", 
+        "title": "Jackie Brown", 
+        "type": "movie", 
+        "year": "1997"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Jacob's Ladder (1990)", 
+        "genres": "Drama, Horror, Mystery", 
+        "plot": "Mourning his dead child, a haunted Vietnam war veteran attempts to discover his past while suffering from a severe case of dissociation. To do so, he must decipher reality and life from his own dreams, delusion, and perception of death.", 
+        "rating": "7.5", 
+        "title": "Jacob's Ladder", 
+        "type": "movie", 
+        "year": "1990"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "JFK (1991)", 
+        "genres": "Drama, History, Thriller", 
+        "plot": "A New Orleans DA discovers there's more to the Kennedy assassination than the official story.", 
+        "rating": "8.0", 
+        "title": "JFK", 
+        "type": "movie", 
+        "year": "1991"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Jupiter Ascending (2015)", 
+        "genres": "Action, Adventure, Sci-Fi", 
+        "plot": "A young woman discovers her destiny as an heiress of intergalactic nobility and must fight to protect the inhabitants of Earth from an ancient and destructive industry.", 
+        "rating": "5.5", 
+        "title": "Jupiter Ascending", 
+        "type": "movie", 
+        "year": "2015"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Mulholland Drive (2001)", 
+        "genres": "Drama, Mystery, Thriller", 
+        "plot": "After a car wreck on the winding Mulholland Drive renders a woman amnesiac, she and a perky Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality.", 
+        "rating": "8.0", 
+        "title": "Mulholland Drive", 
+        "type": "movie", 
+        "year": "2001"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Munich (2005)", 
+        "genres": "Drama, History, Thriller", 
+        "plot": "Based on the true story of the Black September aftermath, about the five men chosen to eliminate the ones responsible for that fateful day.", 
+        "rating": "7.6", 
+        "title": "Munich", 
+        "type": "movie", 
+        "year": "2005"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Natural Born Killers (1994)", 
+        "genres": "Crime, Drama, Romance", 
+        "plot": "Two victims of traumatized childhoods become lovers and psychopathic serial murderers irresponsibly glorified by the mass media.", 
+        "rating": "7.3", 
+        "title": "Natural Born Killers", 
+        "type": "movie", 
+        "year": "1994"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Never Sleep Again The Elm Street Legacy (2010)", 
+        "genres": "Documentary, Horror", 
+        "plot": "Explore the origins of \"dream demon\" Freddy Krueger in this award-winning documentary that takes you behind the scenes of the most frightening and imaginative horror franchise in motion picture history!", 
+        "rating": "8.7", 
+        "title": "Never Sleep Again: The Elm Street Legacy", 
+        "type": "movie", 
+        "year": "2010"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Noah (2014)", 
+        "genres": "Action, Adventure, Drama", 
+        "plot": "A man is chosen by his world's creator to undertake a momentous mission before an apocalyptic flood cleanses the world.", 
+        "rating": "5.9", 
+        "title": "Noah", 
+        "type": "movie", 
+        "year": "2014"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Nobody Knows (2004)", 
+        "genres": "Drama", 
+        "plot": "In a small Tokyo apartment, twelve-year-old Akira must care for his younger siblings after their mother leaves them and shows no sign of returning.", 
+        "rating": "8.1", 
+        "title": "Nobody Knows", 
+        "type": "movie", 
+        "year": "2004"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Only Lovers Left Alive (2013)", 
+        "genres": "Drama, Horror, Romance", 
+        "plot": "A depressed musician reunites with his lover, though their romance - which has already endured several centuries - is disrupted by the arrival of her uncontrollable younger sister.", 
+        "rating": "7.3", 
+        "title": "Only Lovers Left Alive", 
+        "type": "movie", 
+        "year": "2013"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Pacific Rim (2013)", 
+        "genres": "Action, Adventure, Sci-Fi", 
+        "plot": "As a war between humankind and monstrous sea creatures wages on, a former pilot and a trainee are paired up to drive a seemingly obsolete special weapon in a desperate effort to save the world from the apocalypse.", 
+        "rating": "7.0", 
+        "title": "Pacific Rim", 
+        "type": "movie", 
+        "year": "2013"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Paths of Glory (1957)", 
+        "genres": "Comedy, Drama, War", 
+        "plot": "Based on the 1935 novel of the same name, it tells the story of an ill-fated assault on German forces by French soldiers, and the grippling consequences those soldiers face when they refuse to follow through with it.", 
+        "rating": "8.5", 
+        "title": "Paths of Glory", 
+        "type": "movie", 
+        "year": "1957"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Pi (1998)", 
+        "genres": "Drama, Thriller", 
+        "plot": "A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.", 
+        "rating": "7.5", 
+        "title": "Pi", 
+        "type": "movie", 
+        "year": "1998"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Planet Terror (2007)", 
+        "genres": "Action, Comedy, Horror", 
+        "plot": "After an experimental bio-weapon is released, turning thousands into zombie-like creatures, it's up to a rag-tag group of survivors to stop the infected and those behind its release.", 
+        "rating": "7.2", 
+        "title": "Planet Terror", 
+        "type": "movie", 
+        "year": "2007"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Broken Circle Breakdown (2012)", 
+        "genres": "Drama, Music, Romance", 
+        "plot": "Elise and Didier fall in love at first sight, in spite of their differences. He talks, she listens. He's a romantic atheist, she's a religious realist. When their daughter becomes seriously ill, their love is put on trial.", 
+        "rating": "7.8", 
+        "title": "The Broken Circle Breakdown", 
+        "type": "movie", 
+        "year": "2012"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Chaser (2008)", 
+        "genres": "Thriller", 
+        "plot": "A cash-strapped pimp and former police detective draws upon the skills of his old job to track down his missing stable of prostitutes.", 
+        "rating": "7.9", 
+        "title": "The Chaser", 
+        "type": "movie", 
+        "year": "2008"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Drop (2014)", 
+        "genres": "Crime, Drama", 
+        "plot": "Bob Saginowski finds himself at the center of a robbery gone awry and entwined in an investigation that digs deep into the neighborhood's past where friends, families, and foes all work together to make a living - no matter the cost.", 
+        "rating": "7.1", 
+        "title": "The Drop", 
+        "type": "movie", 
+        "year": "2014"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Elephant Man (1980)", 
+        "genres": "Biography, Drama", 
+        "plot": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous facade, there is revealed a person of intelligence and sensitivity.", 
+        "rating": "8.2", 
+        "title": "The Elephant Man", 
+        "type": "movie", 
+        "year": "1980"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Flowers Of War (2011)", 
+        "genres": "Drama, History, War", 
+        "plot": "A Westerner finds refuge with a group of women in a church during Japan's rape of Nanking in 1937. Posing as a priest, he attempts to lead the women to safety.", 
+        "rating": "7.6", 
+        "title": "The Flowers of War", 
+        "type": "movie", 
+        "year": "2011"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Fountain (2006)", 
+        "genres": "Drama, Romance, Sci-Fi", 
+        "plot": "As a modern-day scientist, Tommy is struggling with mortality, desperately searching for the medical breakthrough that will save the life of his cancer-stricken wife, Izzi.", 
+        "rating": "7.3", 
+        "title": "The Fountain", 
+        "type": "movie", 
+        "year": "2006"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Game (1997)", 
+        "genres": "Drama, Mystery, Thriller", 
+        "plot": "Wealthy San Francisco financier Nicholas Van Orton gets a strange birthday present from wayward brother Conrad: a live-action game that consumes his life.", 
+        "rating": "7.8", 
+        "title": "The Game", 
+        "type": "movie", 
+        "year": "1997"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Hobbit An Unexpected Journey (2012)", 
+        "genres": "Adventure, Fantasy", 
+        "plot": "A reluctant hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home - and the gold within it - from the dragon Smaug.", 
+        "rating": "8.0", 
+        "title": "The Hobbit: An Unexpected Journey", 
+        "type": "movie", 
+        "year": "2012"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Hunt (2012)", 
+        "genres": "Drama", 
+        "plot": "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.", 
+        "rating": "8.3", 
+        "title": "The Hunt", 
+        "type": "movie", 
+        "year": "2012"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Hurt Locker (2008)", 
+        "genres": "Drama, History, Thriller", 
+        "plot": "During the Iraq War, a Sergeant recently assigned to an army bomb squad is put at odds with his squad mates due to his maverick way of handling his work.", 
+        "rating": "7.6", 
+        "title": "The Hurt Locker", 
+        "type": "movie", 
+        "year": "2008"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Illusionist (2006)", 
+        "genres": "Drama, Mystery, Romance", 
+        "plot": "In turn-of-the-century Vienna, a magician uses his abilities to secure the love of a woman far above his social standing.", 
+        "rating": "7.6", 
+        "title": "The Illusionist", 
+        "type": "movie", 
+        "year": "2006"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Judge (2014)", 
+        "genres": "Crime, Drama", 
+        "plot": "Big-city lawyer Hank Palmer returns to his childhood home where his father, the town's judge, is suspected of murder. Hank sets out to discover the truth and, along the way, reconnects with his estranged family.", 
+        "rating": "7.4", 
+        "title": "The Judge", 
+        "type": "movie", 
+        "year": "2014"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Man From Earth (2007)", 
+        "genres": "Drama, Sci-Fi", 
+        "plot": "An impromptu goodbye party for Professor John Oldman becomes a mysterious interrogation after the retiring scholar reveals to his colleagues he never ages and has walked the earth for 14,000 years.", 
+        "rating": "8.0", 
+        "title": "The Man from Earth", 
+        "type": "movie", 
+        "year": "2007"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Man From Nowhere (2010)", 
+        "genres": "Action, Crime, Thriller", 
+        "plot": "A quiet pawnshop keeper with a violent past takes on a drug- and organ trafficking ring in hope of saving the child who is his only friend.", 
+        "rating": "7.9", 
+        "title": "The Man from Nowhere", 
+        "type": "movie", 
+        "year": "2010"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Maze Runner (2014)", 
+        "genres": "Action, Mystery, Sci-Fi", 
+        "plot": "Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow \"runners\" for a shot at escape.", 
+        "rating": "6.8", 
+        "title": "The Maze Runner", 
+        "type": "movie", 
+        "year": "2014"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Mist (2007)", 
+        "genres": "Horror, Sci-Fi, Thriller", 
+        "plot": "A freak storm unleashes a species of blood-thirsty creatures on a small town, where a small band of citizens hole up in a supermarket and fight for their lives.", 
+        "rating": "7.2", 
+        "title": "The Mist", 
+        "type": "movie", 
+        "year": "2007"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Pursuit of Happyness (2006)", 
+        "genres": "Biography, Drama", 
+        "plot": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional endeavor.", 
+        "rating": "7.9", 
+        "title": "The Pursuit of Happyness", 
+        "type": "movie", 
+        "year": "2006"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Rover (2014)", 
+        "genres": "Crime, Drama", 
+        "plot": "10 years after a global economic collapse, a hardened loner pursues the men who stole his only possession, his car. Along the way, he captures one of the thieves' brother, and the duo form an uneasy bond during the dangerous journey.", 
+        "rating": "6.4", 
+        "title": "The Rover", 
+        "type": "movie", 
+        "year": "2014"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Shawshank Redemption (1994)", 
+        "genres": "Crime, Drama", 
+        "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.", 
+        "rating": "9.3", 
+        "title": "The Shawshank Redemption", 
+        "type": "movie", 
+        "year": "1994"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Shining (1980)", 
+        "genres": "Horror", 
+        "plot": "A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.", 
+        "rating": "8.4", 
+        "title": "The Shining", 
+        "type": "movie", 
+        "year": "1980"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Tree Of Life (2011)", 
+        "genres": "Drama, Fantasy", 
+        "plot": "The story of a family in Waco, Texas in 1956. The eldest son witnesses the loss of innocence and struggles with his parents' conflicting teachings.", 
+        "rating": "6.7", 
+        "title": "The Tree of Life", 
+        "type": "movie", 
+        "year": "2011"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Truman Show (1998)", 
+        "genres": "Drama", 
+        "plot": "An insurance salesman/adjuster discovers his entire life is actually a T.V. show.", 
+        "rating": "8.1", 
+        "title": "The Truman Show", 
+        "type": "movie", 
+        "year": "1998"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Usual Suspects (1995)", 
+        "genres": "Crime, Drama, Thriller", 
+        "plot": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which begin when five criminals meet at a seemingly random police lineup.", 
+        "rating": "8.6", 
+        "title": "The Usual Suspects", 
+        "type": "movie", 
+        "year": "1995"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "The Wrestler (2008)", 
+        "genres": "Drama, Sport", 
+        "plot": "A faded professional wrestler must retire, but finds his quest for a new life outside the ring a dispiriting struggle.", 
+        "rating": "7.9", 
+        "title": "The Wrestler", 
+        "type": "movie", 
+        "year": "2008"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Burn After Reading (2008)", 
+        "genres": "Comedy, Crime, Drama", 
+        "plot": "A disk containing the memoirs of a CIA agent ends up in the hands of two unscrupulous gym employees who attempt to sell it.", 
+        "rating": "7.0", 
+        "title": "Burn After Reading", 
+        "type": "movie", 
+        "year": "2008"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Capote (2005)", 
+        "genres": "Biography, Crime, Drama", 
+        "plot": "In 1959, Truman Capote learns of the murder of a Kansas family and decides to write a book about the case. While researching for his novel In Cold Blood, Capote forms a relationship with one of the killers, Perry Smith, who is on death row.", 
+        "rating": "7.4", 
+        "title": "Capote", 
+        "type": "movie", 
+        "year": "2005"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Captain Phillips (2013)", 
+        "genres": "Biography, Drama, Thriller", 
+        "plot": "The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the US-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.", 
+        "rating": "7.9", 
+        "title": "Captain Phillips", 
+        "type": "movie", 
+        "year": "2013"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Chico & Rita (2010)", 
+        "genres": "War, Drama", 
+        "plot": "The adventures of a young man as he moves from the Latin-American revolutions in the sixties and seventies, through Hungary in the eighties, to the Croatian war in 1991.", 
+        "rating": "7.2", 
+        "title": "Chico", 
+        "type": "movie", 
+        "year": "2001"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Children of Men (2006)", 
+        "genres": "Drama, Sci-Fi, Thriller", 
+        "plot": "In 2027, in a chaotic world in which women have become somehow infertile, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea.", 
+        "rating": "7.9", 
+        "title": "Children of Men", 
+        "type": "movie", 
+        "year": "2006"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Citizen Kane (1941)", 
+        "genres": "Drama, Mystery", 
+        "plot": "Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.", 
+        "rating": "8.4", 
+        "title": "Citizen Kane", 
+        "type": "movie", 
+        "year": "1941"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Citizenfour (2014)", 
+        "genres": "Documentary", 
+        "plot": "A documentarian and a reporter travel to Hong Kong for the first of many meetings with Edward Snowden.", 
+        "rating": "8.1", 
+        "title": "Citizenfour", 
+        "type": "movie", 
+        "year": "2014"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Cloud Atlas (2012)", 
+        "genres": "Drama, Sci-Fi", 
+        "plot": "An exploration of how the actions of individual lives impact one another in the past, present and future, as one soul is shaped from a killer into a hero, and an act of kindness ripples across centuries to inspire a revolution.", 
+        "rating": "7.5", 
+        "title": "Cloud Atlas", 
+        "type": "movie", 
+        "year": "2012"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Confessions Of A Dangerous Mind (2002)", 
+        "genres": "Biography, Comedy, Crime", 
+        "plot": "An adaptation of the cult memoir of game show impresario Chuck Barris, in which he purports to have been a CIA hitman.", 
+        "rating": "7.1", 
+        "title": "Confessions of a Dangerous Mind", 
+        "type": "movie", 
+        "year": "2002"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Contact (1997)", 
+        "genres": "Drama, Mystery, Sci-Fi", 
+        "plot": "Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of intelligent aliens, who send plans for a mysterious machine.", 
+        "rating": "7.4", 
+        "title": "Contact", 
+        "type": "movie", 
+        "year": "1997"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Corpse Bride (2005)", 
+        "genres": "Animation, Fantasy, Musical", 
+        "plot": "When a shy groom practices his wedding vows in the inadvertent presence of a deceased young woman, she rises from the grave assuming he has married her.", 
+        "rating": "7.4", 
+        "title": "Corpse Bride", 
+        "type": "movie", 
+        "year": "2005"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Cure (1997)", 
+        "genres": "Drama", 
+        "plot": "N/A", 
+        "rating": "4.4", 
+        "title": "Cure", 
+        "type": "movie", 
+        "year": "2011"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Dallas Buyers Club (2013)", 
+        "genres": "Biography, Drama", 
+        "plot": "In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease.", 
+        "rating": "8.0", 
+        "title": "Dallas Buyers Club", 
+        "type": "movie", 
+        "year": "2013"
+    }, 
+    {
+        "api_name": "omdb", 
+        "dir": "Dark City (1998)", 
+        "genres": "Drama, Fantasy, Sci-Fi", 
+        "plot": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.", 
+        "rating": "7.7", 
+        "title": "Dark City", 
+        "type": "movie", 
+        "year": "1998"
+    }
+]
