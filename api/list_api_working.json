@@ -1,0 +1,27 @@
+"hummingbirdv2": {
+  "url": "https://hummingbird.me/api/v2/",
+  "endpoint": "/search/anime/",
+  "parameters": {
+    "search_bytitle": "query"
+  },
+  "metadata": {
+    "reponse": "",
+    "title": "titles",
+    "alternate_title": "",
+    "status": "",
+    "url": "url",
+    "episode_count": "episode_count",
+    "episode_length": "episode_length",
+    "cover_image": "cover_image",
+    "synopsis": "synopsis",
+    "show_type": "show_type",
+    "year": "",
+    "started_airing": "started_airing_date",
+    "finished_airing": "finished_airing_date",
+    "rating_1": "community_rating",
+    "rating_2": "bayesian_rating",
+    "genres": "genres",
+    "director": "",
+    "votes": ""
+  }
+}

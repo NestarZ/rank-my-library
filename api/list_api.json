@@ -1,0 +1,117 @@
+{
+  "anime": {
+    "hummingbirdv1": {
+      "url": "https://hummingbird.me/api/v1/",
+      "endpoint": "/search/anime/",
+      "parameters": {
+        "search_bytitle": "query"
+      },
+      "metadata": {
+        "reponse": "",
+        "title": "title",
+        "alternate_title": "alternate_title",
+        "status": "status",
+        "url": "url",
+        "episode_count": "episode_count",
+        "episode_length": "episode_length",
+        "cover_image": "cover_image",
+        "synopsis": "synopsis",
+        "show_type": "show_type",
+        "year": "",
+        "started_airing": "started_airing",
+        "finished_airing": "finished_airing",
+        "rating_1": "community_rating",
+        "rating_2": "",
+        "genres": "genres",
+        "director": "",
+        "votes": ""
+      }
+    }
+  },
+  "divers": {
+    "netflix": {
+      "url": "http://netflixroulette.net/api/",
+      "endpoint": "api.php",
+      "parameters": {
+        "search_bytitle": "title",
+        "search_byyear": "year"
+      },
+      "metadata": {
+        "reponse": "",
+        "title": "show_title",
+        "alternate_title": "",
+        "status": "",
+        "url": "",
+        "episode_count": "",
+        "episode_length": "",
+        "cover_image": "poster",
+        "synopsis": "summary",
+        "show_type": "",
+        "year": "release_year",
+        "started_airing": "",
+        "finished_airing": "",
+        "rating_1": "rating",
+        "rating_2": "",
+        "genres": "category",
+        "director": "director",
+        "votes": ""
+      }
+    },
+    "omdb": {
+      "url": "http://www.omdbapi.com/",
+      "endpoint": "",
+      "parameters": {
+        "search_bytitle": "t",
+        "search_byyear": "y"
+      },
+      "metadata": {
+        "reponse": "Response",
+        "title": "Title",
+        "alternate_title": "",
+        "status": "",
+        "url": "",
+        "episode_count": "",
+        "episode_length": "",
+        "cover_image": "Poster",
+        "synopsis": "Plot",
+        "show_type": "",
+        "year": "Year",
+        "started_airing": "Released",
+        "finished_airing": "",
+        "rating_1": "Metascore",
+        "rating_2": "imdbRating",
+        "genres": "Genre",
+        "director": "Director",
+        "votes": ""
+      }
+    },
+    "myapifilms_imdb": {
+      "url": "http://www.myapifilms.com/",
+      "endpoint": "imdb",
+      "parameters": {
+        "search_bytitle": "title",
+        "search_byyear": ""
+      },
+      "metadata": {
+        "reponse": "Response",
+        "title": "title",
+        "alternate_title": "akas",
+        "status": "",
+        "url": "urlIMDB",
+        "episode_count": "",
+        "episode_length": "",
+        "cover_image": "urlPoster",
+        "synopsis": "plot",
+        "show_type": "",
+        "year": "year",
+        "started_airing": "releaseDate",
+        "finished_airing": "",
+        "rating_1": "metascore",
+        "rating_2": "rating",
+        "genres": "genres",
+        "director": "directors",
+        "votes": "votes"
+      }
+    }
+  }
+}
