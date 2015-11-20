@@ -1,5 +1,9 @@
 {
-  "anime": {
+  "categories":{
+      "anime": ["omdb", "hummingbirdv1", "myapifilms_imdb"],
+      "movie": ["netflix", "omdb", "myapifilms_imdb"]
+  },
+  "api": {
     "hummingbirdv1": {
       "url": "https://hummingbird.me/api/v1/",
       "endpoint": "/search/anime/",
@@ -26,9 +30,7 @@
         "director": "",
         "votes": ""
       }
-    }
-  },
-  "divers": {
+    },
     "netflix": {
       "url": "http://netflixroulette.net/api/",
       "endpoint": "api.php",

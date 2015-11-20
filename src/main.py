@@ -33,10 +33,11 @@ class Master(object):
         with open(file_dir+"/../api/list_api.json",'r') as f:
             data = json.load(f)
         apis = {}
-        for content_type in data.keys():
+        for content_type in data["categories"].keys():
             apis[content_type] = []
-            for name, api in data[content_type].items():
-                apis[content_type].append(API(name, content_type, api))
+            for name, api in data["api"].items():
+                if name in data["categories"][content_type]:
+                    apis[content_type].append(API(name, content_type, api))
         return apis
 
 class API(object):
@@ -117,7 +118,7 @@ class RankMyLibrary(object):
         fname = file_dir+"/../data/{}_{}".format(content_type,self.time_id)
         csv_ext, json_ext = ".csv", ".json"
         data = self.get_json(fname+json_ext)
-        for api in self.api_dic.get(content_type, self.api_dic["divers"]):
+        for api in self.api_dic[content_type]:
             print(api.name)
             if (api.name) == "myapifilms_imdb": continue
             for folder in folders:
